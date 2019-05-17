@@ -1,0 +1,15 @@
+.borderDiv {
+    border: 5px solid blue;
+    border-radius: 25px;
+    text-align:center;
+    display: inline-block;
+    vertical-align: top;
+    padding: 3%;
+    width: 17%;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
